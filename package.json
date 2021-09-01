@@ -1,0 +1,21 @@
+{
+    "name": "dalia-night-theme",
+    "displayName": "Dalia Night Theme",
+    "description": "A complete, dark and minimalistic Material inspired theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dalia Night Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dalia Night Theme-color-theme.json"
+            }
+        ]
+    }
+}
