@@ -2,7 +2,7 @@
     "name": "dalia-night-theme",
     "displayName": "Dalia Night Theme",
     "description": "A complete, dark and minimalistic Material inspired theme.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -18,9 +18,13 @@
             }
         ]
     },
-    "publisher": "Victor Jose",
+    "publisher": "VictorJose",
     "author": {
         "name": "Victor R. Jose Santiago",
         "email": "jsvictordev@gmail.com"
-      }
+      },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jsvictordev/dalia-night-theme"
+    }
 }

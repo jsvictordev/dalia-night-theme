@@ -489,9 +489,18 @@
 		  ],
 		  "settings": {
 			  "foreground": "#F78C6C",
-			  "fontStyle": "italic"
 		  }
 	  },
+	  {
+		"name": "Function Argument",
+		"scope": [
+			"variable.parameter",
+		],
+		"settings": {
+			"foreground": "#F78C6C",
+			"fontStyle": "italic"
+		}
+	},
 	  {
 		  "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 		  "scope": [
