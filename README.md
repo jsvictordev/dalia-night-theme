@@ -10,6 +10,9 @@ Features:
 # Install
 
 Follow the instructions in the [Marketplace], or run the following in the command palette:
+```shell
+ext install victorjose.dalia-night-theme
+```
 
 # Usage
 
